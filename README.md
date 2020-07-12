@@ -43,12 +43,12 @@
 - ``python app.py``
 
 #### Reason's for opting Nosql(MongoDB)
-    Ease of scale-out 
-    Auto-Sharding
-    Easily available for free as service
-    Best suited for User Data Management
-    Rich queries
-    Replication and high availability
+- Ease of scale-out 
+- Auto-Sharding
+- Easily available for free as service
+- Best suited for User Data Management
+- Rich queries
+- Replication and high availability
 
 #### How to run the .exe file
 - Navigate to dest and then app folder
